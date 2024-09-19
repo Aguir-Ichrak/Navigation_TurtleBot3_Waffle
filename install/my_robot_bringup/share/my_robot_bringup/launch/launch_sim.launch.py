@@ -1,0 +1,1 @@
+/home/ichrak/Bureau/ros2_test-master/src/my_robot_bringup/launch/launch_sim.launch.py
